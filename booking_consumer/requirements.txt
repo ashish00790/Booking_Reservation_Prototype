@@ -1,0 +1,4 @@
+#requirmenst.txt
+
+kafka-python == 2.0.1
+pandas == 1.0.5
